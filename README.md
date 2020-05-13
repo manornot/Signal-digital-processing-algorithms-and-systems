@@ -14,4 +14,4 @@
 |  | - [ ] Discrate Time Window | - [ ] Digital time wave|
 
 <td><ul><li>[x] Dynamic Time warping</li></ul></td>
-<td><input type="checkbox" name="name2" />&nbsp;</td>
+<td><ul><li>[x] Discrate Time Window</li></ul></td>
