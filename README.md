@@ -11,6 +11,6 @@
 
 3. DTW stands for 
 ---------------------------------------------
-|<li>[x]</li> Dynamic Time warping | - [ ] Discrate Time Window | - [ ] Digital time wave|
+|<ul><li>[x]</li></ul> Dynamic Time warping | - [ ] Discrate Time Window | - [ ] Digital time wave|
 
-<ul><li>[ ] item2</li></ul>
+<li>[ ] item2</li>
