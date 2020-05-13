@@ -13,6 +13,4 @@
 ---------------------------------------------
 - [x] Dynamic Time warping | - [ ] Discrate Time Window | - [ ] Digital time wave
 
-| Checkbox Experiments | - [ ] unchecked header  | - [x] checked header  |
-| ---------------------|:---------------------:|:-------------------:|
-| checkbox             | - [ ] row               |  - [x] row             |
+<ul><li>[x] item1</li><li>[ ] item2</li></ul>
