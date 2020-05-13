@@ -10,19 +10,10 @@
 
 
 3. DTW stands for 
----------------------------------------------
-|  | - [ ] Discrate Time Window | - [ ] Digital time wave|
-
 <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
   <tr>
     <td><ul><li>[ ] Jill</li></ul></td>
     <td><ul><li>[ ] Smith</li></ul></td>
     <td><ul><li>[x] 50</li></ul></td>
   </tr>
-
 </table>
