@@ -20,9 +20,9 @@
     <th>Age</th>
   </tr>
   <tr>
-    <td><li>[]Jill</li></td>
-    <td><li>[]Smith</li></td>
-    <td><li>[x]50</li></td>
+    <td><li>[ ] Jill</li></td>
+    <td><li>[ ] Smith</li></td>
+    <td><li>[x] 50</li></td>
   </tr>
 
 </table>
